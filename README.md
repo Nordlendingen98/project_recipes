@@ -1,7 +1,10 @@
 # project_recipes
 
-First odin project
+Hello this is my first Odin Project.
 
-This is from Windows Computer.
+Index.html contains the link to lasagna recipe.
 
-I love git.
+Lasagna.html contains how to make lasagna.
+
+Peace
+Marius
